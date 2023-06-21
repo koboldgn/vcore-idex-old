@@ -4,7 +4,7 @@ This is a temporary RatOS IDEX Implementation. It will be online until RatOS get
 - octopus v1.1 idex board configuration 
 - dual EBB42 toolboard config 
 - idex hardware configs 
-- based on ratos alpha4
+- based on RatOS-v2.0.1
 - heats up extruder on demand
 - can put extruders into standby mode 
 - works with or without purge tower
